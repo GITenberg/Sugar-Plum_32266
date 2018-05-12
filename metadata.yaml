@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35755
     wikipedia: http://en.wikipedia.org/wiki/Reginald_Bretnor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32266#Sugar-Plum
 gutenberg_issued: '2010-05-05'
 gutenberg_type: Text
 identifiers:
